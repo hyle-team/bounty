@@ -15,16 +15,16 @@ Each bounty can have `Open` or `Closed` status. `Open` means you can apply to ta
 There are labels to help hunters navigate the bounty list. Each bounty is marked with one of the 6 main types: `Videos`, `Articles`, `Social`, `Translations`, `Mining` and `Instructions`. With this labeling system you should be able to easily recognize the tasks you’re looking for.
 
 ### Videos
-A reward is paid for making videos related to the Zano project and posting them on YouTube. Based on the number of views, comments, comment type, video design quality, and information contained, the amount of reward will be calculated. Among the required topics are projects comparison, general information, and features overview, instructional videos and tutorials.
+A reward is paid for making videos related to the Zano project and posting them on YouTube. Based on the number of views, comments, comment type, video design quality, and information contained, the amount of reward will be calculated. Among the required topics are projects comparison, general information, and features overview, instructional videos, and tutorials.
 
 ### Articles
-Writing original, non-plagiarized articles about Zano. Information from zano.org or whitepaper can be used for example, but not “copy/paste”. Articles can have various topics and overview Zano potential investments and features. The reward is based on article content. Can be submitted to Reddit, Medium, Cointelegraph etc.
+Writing original, non-plagiarized articles about Zano. Information from zano.org or whitepaper can be used for example, but not “copy/paste”. Articles can have various topics and overview Zano potential investments and features. The reward is based on article content. Can be submitted to Reddit, Medium, Cointelegraph, etc.
 
 ### Social
-This type of bounty is about creating a meaningful social media post on Facebook, Twitter, Instagram etc. A hashtag #Zano, zano.org link and $Zano are always required. Reward is based on number of likes, comments content, and author follower numbers.
+This type of bounty is offered for creating a meaningful social media post on Facebook, Twitter, Instagram etc. A hashtag #Zano, zano.org link and $Zano are always required. Reward is based on number of likes, comments content, and author follower numbers.
 
 ### Translations
-Various translation tasks from large articles to social media posts will be rewarded based on the word count. The required languages will be listed in a particular bounty. Texts to translate can be articles, instructions, guides, whitepaper updates, announcements, Facebook posts, tweets etc.
+Various translation tasks from large articles to social media posts will be rewarded based on the word count. The required languages will be listed in a particular bounty. Texts to translate can be articles, instructions, guides, whitepaper updates, announcements, Facebook posts, tweets, etc.
 
 ### Mining 
 A reward for publishing mining software and tools with Zano support. Should be reviewed and accepted by the community.
