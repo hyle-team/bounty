@@ -4,11 +4,11 @@ The Hyle team is working day and nights on our latest project, Zano blockchain a
 Each task or bounty has different terms and reward, please read careful to maximize your earnings.
 
 ## How to become a bounty hunter?
-1. Carefully review available tasks [here](https://github.com/AlekseiBo/Test/issues)
+1. Carefully review available tasks [here](https://github.com/hyle-team/bounty/issues)
 2. Pick the right one for you
 3. If required leave a comment and wait for approval
-3. Go ahead and get it done
-4. Once completed the dev team will review and issue the reward
+4. Go ahead and get it done
+5. Once completed the dev team will review and issue the reward
 
 Each bounty can have `Open` or `Closed` status. `Open` means you can apply to take the job in the comment section or submit the results depending on the job description. If bounty has a `Closed` status it means someone else is already working on it and hunters cannot commit to it at the moment. If a hunter working on it doesn’t succeed it will be open again. When job is done the bounty premanently gets closed.
 
