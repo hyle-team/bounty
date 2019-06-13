@@ -1,3 +1,5 @@
+> Important! All rewards will be paid after coinswap starts to prevent reward coins from participating in staking
+
 # Welcome to Hyle team bounty program
 
 The Hyle team is working day and nights on our latest project, Zano blockchain and infrastructure. Meanwhile, we’d like to offer you the opportunity to earn Zano coins while simultaneously increasing its value by fulfilling crucial tasks.
