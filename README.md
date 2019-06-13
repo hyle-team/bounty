@@ -1,4 +1,4 @@
-> Important! All rewards will be paid after coinswap starts to prevent reward coins from participating in staking
+> Please note that in order to avoid sharp increase in PoS difficulty bounty payouts will be locked until coin swap launch.
 
 # Welcome to Hyle team bounty program
 
