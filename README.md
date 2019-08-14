@@ -1,5 +1,3 @@
-> Please note that in order to avoid sharp increase in PoS difficulty bounty payouts will be locked until coin swap launch.
-
 # Welcome to Hyle team bounty program
 
 The Hyle team is working day and nights on our latest project, Zano blockchain and infrastructure. Meanwhile, we’d like to offer you the opportunity to earn Zano coins while simultaneously increasing its value by fulfilling crucial tasks.
