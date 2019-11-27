@@ -3,7 +3,7 @@
 The Hyle team is working day and nights on our latest project, Zano blockchain and infrastructure. Meanwhile, we’d like to offer you the opportunity to earn Zano coins while simultaneously increasing its value by fulfilling crucial tasks.
 Each task or bounty has different terms and reward, please read careful to maximize your earnings.
 
-## How to become a bounty hunter?
+## How to participate in the bounty program.
 1. Carefully review available tasks [here](https://github.com/hyle-team/bounty/issues)
 2. Pick the right one for you
 3. If required leave a comment and wait for approval
@@ -26,11 +26,14 @@ This type of bounty is offered for creating a meaningful social media post on Fa
 ### Translations
 Various translation tasks from large articles to social media posts will be rewarded based on the word count. The required languages will be listed in a particular bounty. Texts to translate can be articles, instructions, guides, whitepaper updates, announcements, Facebook posts, tweets, etc.
 
-### Mining 
-A reward for publishing mining software and tools with Zano support. Should be reviewed and accepted by the community.
-
 ### Instructions
 Infographics, tutorials, guides on various topics related to Zano features and usage. Submitted works will be reviewed by dev team and rewarded based on the quality of the material. Materials about mining, staking, marketplaces, and contracts are preferred.
 
-## How to propose you bounty?
+### Mining 
+A reward for publishing mining software and tools with Zano support. Should be reviewed and accepted by the community.
+
+### Bug Reporting
+A reward for major bugs relating to security or privacy risks on the Zano blockchain. This bounty is strictly related to the core code of Zano and does not include any possible visual errors in the Zano user interface. Amount of bounty will depend on severity of the issue.
+
+## How to propose your bounty idea.
 If you feel confident about a particular idea and it's implementation you can suggest you own bounty by creating a new issue. Please provide a full detailed description and don't forget to mark it with a special label `Idea`. The dev team will review it and respond swiftly.
